@@ -1,5 +1,5 @@
 if game.PlaceId == 155615604 then
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/GhoulScripts/Ghoul-Hub-V2---Light-Theme-games/main/Prison%20Life?token=AUYRDOFTEF7Y46GIOQRDN5LBNCPFM'), true))()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/GhoulScripts/Ghoul-Hub-V2---Light-Theme-games/main/Prison%20Life?token=AUYRDOHZLGN2F475HSHKKXTBNCQGI'), true))()
 elseif game.PlaceId == 4254575069 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/GhoulScripts/Ghoul-Hub-V2---Light-Theme-games/main/Champion%20Simulator?token=AUYRDOBBUQKVS3JUUGSLTXLBNCPG6'), true))()
 elseif game.PlaceId == 6512923934 then
